@@ -1,7 +1,7 @@
-<h1 align="left">👋 Hello, I'm [Falade Kehinde]!</h1>
+<h1 align="left">👋 Hello, I'm Falade Kehinde!</h1>
 
 <p align="left">
-  <em>Learner at <strong>ALX Back-End Web Pro-Development</strong> | Certified<strong>AWS Cloud Solutions Architect</strong></em>
+  <em>Learner at <strong>ALX Back-End Web Pro-Development</strong> | Certified <strong>AWS Cloud Solutions Architect</strong></em>
 </p>
 
 ---
