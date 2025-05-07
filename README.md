@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-Hello there! I'm an AWS Certified Solution Architech and currently a passionate learner in the **ALX Back-End Web Pro-Development** program. My journey into tech is fueled by a curiosity to understand how things work under the hood, and a drive to create solutions that matter.
+Hello there! I'm an AWS Certified Solution Architect and currently a passionate learner in the **ALX Back-End Web Pro-Development** program. My journey into tech is fueled by a curiosity to understand how things work under the hood, and a drive to create solutions that matter.
 
 🚀 My tech journey began with a focus on **AWS Cloud Architecture**, where I discovered the magic of scalable, secure, and efficient systems. What inspires me the most is the power of automation, infrastructure-as-code, and the potential of cloud-native applications to solve real-world problems.
 
